@@ -1,0 +1,420 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(115, 117, 115);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+     
+ }
+ .outer-box
+{
+    width: 500px;
+    height:1800px ;
+    display: inline-block;
+    border-radius: 16px;
+    
+    
+
+
+  
+    
+}   
+.box-1{
+    width: 500px;
+    height: 600px;
+    display: inline-block;
+    background-color: black;
+    
+}
+.inner1{
+    width: 500px;
+    height:80px ;
+    background-color: rgb(26, 16, 16);
+    display: inline-block;
+}
+ul, li{
+    display: inline;
+    color: white;
+    float: right;
+    padding: 12px
+    
+    
+}
+ul,li,h5{
+    font-size: small;
+}
+.inner1 img{
+    position: relative;
+    bottom: 0;
+    float: bottom;
+    padding-top: 25px;
+}
+.inner2{
+    width: 500px;
+    height: 210px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    background-image: url("imges/Rectangle\ 2.png");
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    
+}
+
+.heading{
+    
+    width: 250px;
+    height: 100px;
+}
+.heading h3{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: auto;
+    font-size: large;
+    font-size:larger;
+    color: white;
+    
+}
+.heading2{
+    width: 210px;
+    height: 70px;
+     background-image: url("imges/download.jfif");
+       padding: 20px;
+       display: flex;
+       justify-content: center;
+
+} 
+
+
+.button{
+    width: 160px;
+    height: 50px;
+    float: bottom;
+    border-radius: 14px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+    
+    
+    
+    
+}
+.inner3{
+    width: 500px;
+    height:100px ;
+    display: flex;
+    justify-content: left;
+    align-items:center ;
+    padding: 40px;
+    margin: 50px;
+    
+
+
+}
+
+.heading3{
+    width: 200px;
+    height: 100px;
+    color: white;
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    
+
+}
+.inner4{
+    width: 500px;
+    height: 120px;
+    color: white;
+    background-color: black
+    
+}
+.img{
+    padding: 5px;
+    margin: 5px;
+}
+  
+    
+
+
+    
+    
+   
+    
+
+
+
+
+
+
+.inner4,h3{
+    
+    
+    font-family:cursive
+    
+    
+   
+    
+}
+.inner,.heading3{
+     color: white;
+    
+}
+    
+
+    
+
+
+
+
+
+
+
+.box-2{
+    width: 500px;
+    height: 600px;
+    background-color: black;
+    display: inline-block;
+    
+    
+
+} 
+.A{
+   
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    color: white;
+    background-image: url("imges/Rectangle\ 15.png");
+
+}
+.heading5{
+    display: flex;
+    justify-content: center;
+    align-items: right;
+    padding: 10px;
+    margin: 20px;
+}
+
+
+.O{
+    
+   width: 250px;
+   height: 100px;
+    font-weight: bolder;
+   padding: 10px;
+   margin: 25px;
+   font-size: larger
+}  
+.P
+{
+    padding: 10px;
+
+}
+.heading,#O{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px;
+    border: 1px;
+}
+#O{
+    width: 150px;
+    cursor: pointer;
+    
+}
+
+
+   
+   
+
+#button{
+    width: 160px;
+    height: 50px;
+    float: bottom;
+    border-radius: 14px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+.B{
+   padding: 0;
+   margin: 0;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+.R{
+    
+    width: 400px;
+    height: 100ppx;
+}
+.C{
+    
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.S{
+    width: 300px;
+    height: 220px;
+    
+    
+}
+.D{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.U{
+    
+    background-color: black;
+    
+}
+    
+    
+
+
+    
+    
+
+
+    
+
+.box-3{
+    width: 500px;
+    height: 600px;
+    display: inline-block;
+    background-color: black;
+    
+}
+
+.V{
+    width: 500px;
+    height: 210px;
+    background-color: rgb(10, 1, 1)
+}
+.W{
+    width: 500px;
+    height: 50px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Z{
+    
+    padding-left: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.write{
+    width: 500px;
+    height: 25px;
+    padding-left: 10px;
+    background-color: black;
+    
+   
+    
+}
+.setup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tag{
+    border-radius: 16px;
+    text-align: center;
+    font-size: smaller;
+    width: 150px;
+    height: 30px;
+}
+
+.X{
+    width: 500px;
+    height:50px ;
+    display: flex;
+    background-color: yellow;
+}
+    
+
+.bottom{
+    width: 500px;
+    height: 50px;
+    background-color: rgb(124, 121, 121);
+    float: right;
+
+}
+.bottom2{
+    width: 400px;
+    background-color: rgb(124, 121, 121);
+}
+.M{
+    width: 500px;
+    height: 170px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    
+}
+.N{
+    width: 170px;
+    height: 150px;
+    
+    margin: 20px;
+    
+}
+.J{
+    width: 170px;
+    height: 150px;
+    
+    margin: 20px;
+}
+.K{
+    width: 170px;
+    height: 150px;
+    margin: 40px;
+    margin: 20px;
+}
+#L{
+    width: 300px;
+    float: right;
+    margin-right: 40px;
+    
+}
+.last1{
+    width: 500px;
+    height: 65px;
+    
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    
+}
+.last2{
+    width: 200px;
+    height: 60px;
+    
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
